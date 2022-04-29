@@ -30,12 +30,12 @@ The dataset has numeric and textual features that include:
 * The testing and training texts are fit and vectors are determined 
 # Best Machine Learning Model Used
 ![Models](imgs/Model_Used.PNG) </br>
-![Best](imgs/Best_model.PNG)
+![Best](imgs/Best_model.png)
 # Deep Learning Model Used (Pytorch)
 * After the text was converted to vectors, a simple Multilayer Preceptron model was used
 * 50 epochs were used while training and testing the model </br>
 Accuracy and Loss per epochs </br>
-![Deep_Learning](imgs/DL.PNG)
+![Deep_Learning](imgs/DL.png)
 # Tools used
 * Jupyter Notebook
 * Orange Tool
